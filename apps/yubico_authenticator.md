@@ -2,7 +2,9 @@
 
 Software from [yubico](https://www.yubico.com/products/yubico-authenticator/) to retrive 2FA tokens stored on a yubikey.
 
-# Linux
+# Resolving GPG's CCID conflicts
+
+## Linux
 
 The following instructions were tested against Pop!_OS 22.04 and should be considered a reference. If you're using a Linux distribution other than Pop!_OS or another Ubuntu derivative, you may need to adapt these instructions accordingly, as package names, etc. may differ.
 
